@@ -6,4 +6,4 @@ You should be able to just download the zip and run it.
 Tested on Windows 10 and macOS Sierra. 
 
 ## License
-[MIT](LICENSE.md)
+[MIT](LICENSE)
